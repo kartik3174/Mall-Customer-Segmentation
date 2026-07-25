@@ -1,0 +1,6 @@
+{
+  "name": "Mall Customer Segmentation",
+  "description": "An AI-powered customer segmentation system using Unsupervised Machine Learning to analyze customer demographics and spending behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
